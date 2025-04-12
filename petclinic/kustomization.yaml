@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: docker.io/opsmx11/dev-petclinic-apple
-  newTag: 64-nocritical
+  newTag: 65-nocritical
