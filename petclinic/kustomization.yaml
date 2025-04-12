@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: docker.io/opsmx11/dev-petclinic-poc
-  newTag: 67-nocritical
+  newTag: 68-nocritical
