@@ -6,3 +6,5 @@ resources:
 images:
 - name: docker.io/opsmx11/dev-petclinic-poc
   newTag: 9-nocritical
+- name: docker.io/opsmx11/dev-petclinic-demo
+  newTag: 10-nocritical
